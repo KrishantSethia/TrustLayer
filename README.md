@@ -151,7 +151,7 @@ TrustLayer/
 
 ```bash
 git clone https://github.com/KrishantSethia/TrustLayer.git
-cd bit-by-bit-hackathon
+cd TrustLayer
 ```
 
 **Frontend:**
