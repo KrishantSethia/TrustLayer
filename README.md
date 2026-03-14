@@ -150,7 +150,7 @@ TrustLayer/
 ### 1. Clone & Install
 
 ```bash
-git clone https://github.com/RitulKumawat/bit-by-bit-hackathon.git
+git clone https://github.com/KrishantSethia/TrustLayer.git
 cd bit-by-bit-hackathon
 ```
 
